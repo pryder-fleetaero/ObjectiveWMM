@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
-#import <ObjectiveWMM/ObjectiveWMM.h>
+#import <ObjectiveWMM.h>
 
 @interface DeclinationTests : XCTestCase
 
