@@ -80,6 +80,7 @@
 			children = (
 				DC709FB11A3FDB2E0055DCDE /* CCMagneticDeclination.h */,
 				DC709FB31A3FDB2E0055DCDE /* CCMagneticModel.h */,
+				DC709FC61A3FDB2E0055DCDE /* GeomagnetismHeader.h */,
 				DC709FC01A3FDB2E0055DCDE /* NSDate+DecimalYear.h */,
 				DC70A01A1A400ED50055DCDE /* ObjectiveWMM.h */,
 			);
@@ -106,7 +107,6 @@
 			isa = PBXGroup;
 			children = (
 				DC709FC51A3FDB2E0055DCDE /* EGM9615.h */,
-				DC709FC61A3FDB2E0055DCDE /* GeomagnetismHeader.h */,
 				DC709FC71A3FDB2E0055DCDE /* GeomagnetismLibrary.c */,
 				DC709FC81A3FDB2E0055DCDE /* PUBLIC_DOMAIN */,
 			);
