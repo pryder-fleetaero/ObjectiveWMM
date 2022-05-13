@@ -22,6 +22,7 @@ let package = Package(
             name: "ObjectiveWMM",
 //            path: "ObjectiveWMM",
             dependencies: [],
+            resources: [.process("WMM.COF")],
             publicHeadersPath: "include"
         ),
         .testTarget(
